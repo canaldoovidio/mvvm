@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "fintech-investments-app",
+    "slug": "fintech-investments-app",
+    "version": "1.0.0",
+    "sdkVersion": "49.0.0",  // ou a versão do Expo que você está usando
+    "platforms": ["ios", "android", "web"],
+    "entryPoint": "./App.tsx"
+  }
+}
